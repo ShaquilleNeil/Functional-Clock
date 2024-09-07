@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    background-image: url(233324.jpg); /* for the clock */
+    background-position: center; /* for the clock */
+    background-repeat: no-repeat; /* for the clock */
+    background-size: cover; /* for the clock */
+    background-attachment: fixed; /* for the clock */
+    margin: 0; /* for the clock */
+}
+
+#clock{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clockface{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    backdrop-filter: blur(5px);
+    width: 100%;
+    background-color: rgba(175, 175, 175, 0);
+}
