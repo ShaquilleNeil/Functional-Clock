@@ -20,6 +20,7 @@ A functional clock built with **HTML, CSS, and JavaScript**.
 
 ## Demo / Screenshot
 
+![Demo](https://github.com/ShaquilleNeil/Functional-Clock/edit/master/clock.png)
 
 
 ## Features
